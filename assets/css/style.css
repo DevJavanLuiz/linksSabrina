@@ -151,7 +151,7 @@ figure .img {
 
 #email {
     width: 400px;
-    padding: 0px;
+    padding: 10px;
     margin-bottom: 20px;
     border-radius: 20px;
     border: 0;
@@ -165,7 +165,7 @@ figure .img {
 .img-email {
     width: 20px;
     height: 20px;
-    margin: 0px 10px -5px 10px;
+    margin: 0px 0px -5px 5px;
 }
 
 @media (max-width: 550px) {
