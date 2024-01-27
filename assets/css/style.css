@@ -170,7 +170,7 @@ figure .img {
 
 @media (max-width: 550px) {
     a {
-        width: 317px;
+        width: 330px;
         padding: 11px;
         margin-left: 10px;
         margin-bottom: 20px;
@@ -188,5 +188,8 @@ figure .img {
         margin-top: 12px;
         margin-bottom: -2px;
         font-size: 30px;
+    }
+    .content-main {
+        height: 93%;
     }
 }
