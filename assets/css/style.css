@@ -126,18 +126,18 @@ figure .img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    box-shadow: 0px 0px 10px 1px rgb(255, 255, 255);
+    box-shadow: -1px 0px 10px 1px rgb(255, 255, 255);
     animation: rotate-self 1s ease-in-out alternate infinite;
 }
 
 @keyframes rotate-self {
     0% {
-        transform: translateY(-20px);
+        transform: translateY(-15px);
     }
 
     100% {
         transform: translateY(0px);
-        box-shadow: 0px 30px 50px 1px black;
+        box-shadow: -1px 60px 50px -20px black;
     }
 }
 
